@@ -1,5 +1,6 @@
 # PythonFinalProject
-The video will be uploaded late due to computer audio issues and the inability to record.
+The video is in the mp4 file
+This is not completely my own work and I use a video tutorial under a CC license
 Video tutorial: https://www.youtube.com/watch?v=QU1pPzEGrqw
 Difficulties that I faced:
 
